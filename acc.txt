@@ -1,0 +1,13 @@
+admin
+username: zhem
+password: 123
+
+receptionist
+username: rec1
+password: 123456aA
+
+dentist
+username: bryan
+password: 123456aA
+
+
